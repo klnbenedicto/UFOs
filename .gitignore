@@ -1,3 +1,8 @@
+# Module files
+app_mod.js
+index_mod.html
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
